@@ -5,7 +5,7 @@ install
 ---
 
 http://omxplayer.sconde.net/
-
+https://rg3.github.io/youtube-dl/
 
 Usage
 -----
